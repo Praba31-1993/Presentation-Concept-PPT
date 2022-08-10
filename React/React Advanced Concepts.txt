@@ -1,0 +1,8 @@
+1. Context API
+2. Hooks
+3. Error Boundaries
+4. Portals
+5. Higher Order Component
+6. Concurrent Rendering
+7. Redux and Redux Toolkit
+8. Redux Thunk and Redux Saga
